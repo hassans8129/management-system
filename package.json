@@ -1,0 +1,15 @@
+{
+  "name": "user-auth",
+  "version": "1.0.0",
+  "description": "A project management system.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Hassan Siddiqui",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.9.6"
+  }
+}
